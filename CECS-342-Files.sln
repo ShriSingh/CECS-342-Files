@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CECS-342-Assignment-3", "CECS-342-Assignment-3\CECS-342-Assignment-3.csproj", "{BC84C111-4D01-4495-8320-EF79EEE41383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extra Credit 2", "CECS-342-Extra-Credit\Extra Credit 2.csproj", "{517750AE-2BA8-49AF-9A72-F2EA401FF0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC84C111-4D01-4495-8320-EF79EEE41383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC84C111-4D01-4495-8320-EF79EEE41383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC84C111-4D01-4495-8320-EF79EEE41383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC84C111-4D01-4495-8320-EF79EEE41383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517750AE-2BA8-49AF-9A72-F2EA401FF0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517750AE-2BA8-49AF-9A72-F2EA401FF0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517750AE-2BA8-49AF-9A72-F2EA401FF0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517750AE-2BA8-49AF-9A72-F2EA401FF0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3B1C74-764E-4089-8612-1D2016F811B1}
+	EndGlobalSection
+EndGlobal
