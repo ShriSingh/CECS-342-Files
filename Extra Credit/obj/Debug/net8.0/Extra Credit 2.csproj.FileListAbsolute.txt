@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\bin\Debug\net8.0\Extra Credit 2.exe
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\bin\Debug\net8.0\Extra Credit 2.deps.json
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\bin\Debug\net8.0\Extra Credit 2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\bin\Debug\net8.0\Extra Credit 2.dll
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\bin\Debug\net8.0\Extra Credit 2.pdb
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.dll
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\refint\Extra Credit 2.dll
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.pdb
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\Extra Credit 2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\CECS Files\CECS 342 Files\Extra Credit 2\obj\Debug\net8.0\ref\Extra Credit 2.dll
